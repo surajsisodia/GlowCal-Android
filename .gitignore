@@ -16,9 +16,7 @@
 bin/
 gen/
 
-# Ignore gradle files
-.gradle/
-build/
+
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -44,3 +42,7 @@ Thumbs.db
 app/build
 app/release
 app/progaurd-rules.pro
+/app/build/
+/app/release/
+/.gradle/
+/build/
