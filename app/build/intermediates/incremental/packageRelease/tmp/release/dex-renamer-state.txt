@@ -1,0 +1,4 @@
+#Wed Apr 07 23:39:11 IST 2021
+base.0=/home/suraj_sisodia/AndroidStudioProjects/GlowCalAndroid/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
