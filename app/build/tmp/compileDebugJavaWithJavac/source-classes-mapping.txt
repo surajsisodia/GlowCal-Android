@@ -1,6 +1,0 @@
-com/suraj/glowcal/BuildConfig.java
- com.suraj.glowcal.BuildConfig
-com/suraj/glowcal/MainActivity.java
- com.suraj.glowcal.MainActivity
- com.suraj.glowcal.MainActivity$1
- com.suraj.glowcal.MainActivity$2
