@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/visibility_off/baseline_visibility_off_24.xml" />
+                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/notifications/baseline_notifications_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="icon_login_visibility_off" />
+                            <entry key="outputName" value="icon_notification" />
                             <entry key="sourceFile" value="$USER_HOME$/Flutter Projects/Dsc/images/prof2.svg" />
                           </map>
                         </option>

@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">GlowCal Android</string>
-    <string name="login_text">Login</string>
+    <string name="login_text">Log in</string>
     <string name="Email_id">Email ID</string>
     <string name="password_text">Password</string>
     <string name="show_password">Show Password</string>
     <string name="forgot_password">Forgot Password</string>
+    <string name="ngo">NGO</string>
+    <string name="phone_no">Phone No.</string>
 </resources>
